@@ -65,7 +65,7 @@ int main()
         }
         printf("\n");
     }
-    printf("\n matrix b : \n");
+    printf("matrix b : \n");
 
     for (i = 0; i < brows; i++)
     {
